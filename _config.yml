@@ -104,9 +104,6 @@ deploy:
   type: ''
 
 feed:
-  # Generate atom feed
-  type: atom
-
   # Generate both atom and rss2 feeds
   type:
     - atom
