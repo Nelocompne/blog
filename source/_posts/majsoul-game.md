@@ -3,6 +3,7 @@ title: 雀魂
 date: 2024-05-21 22:41:32
 tags:
 - 雀魂
+- 麻将
 categories:
 - Game
 ---
