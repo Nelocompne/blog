@@ -16,5 +16,4 @@ categories:
 ## 主页地址
 
 官网： https://www.maj-soul.com/#/home
-
 Steam： https://store.steampowered.com/app/1329410/MahjongSoul/
