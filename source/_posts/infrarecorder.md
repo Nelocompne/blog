@@ -1,5 +1,5 @@
 ---
-title: infrarecorder
+title: InfraRecorder
 date: 2024-05-24 13:12:25
 tags:
 - CD
