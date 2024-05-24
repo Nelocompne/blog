@@ -21,5 +21,8 @@ Rufus 是一款格式化和创建 USB 启动盘的辅助工具。
 ![](http://rufus.ie/pics/screenshot2_en.png)
 
 # 地址
-Github地址： https://github.com/pbatard/rufus
-官网： http://rufus.ie
+| 官网      | http://rufus.ie |
+| ----------- | ----------- |
+| GITHUB      | https://github.com/pbatard/rufus       |
+| FOSSHUB     |          |
+| sourceforge |          |
