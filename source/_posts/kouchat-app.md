@@ -3,9 +3,9 @@ title: 《APP体验》局域网聊天KouChat
 date: 2024-06-01 20:18:02
 tags:
 - 局域网
+- APP体验
 categories:
 - APP
-- 软件
 ---
 
 # 介绍
