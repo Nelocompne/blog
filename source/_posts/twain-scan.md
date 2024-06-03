@@ -33,6 +33,10 @@ https://github.com/twain/twain-cs
 
 ![TWAINCS.jpg](https://s2.loli.net/2024/06/01/KYoabnpqNx91cmt.jpg)
 
+## windows-virtual-scanner
+TWAIN虚拟扫描仪分支，可以将twainds TWAIN扫描虚拟驱动注入可以通过自定义图像进行扫描的分支程序。
+https://github.com/yushulx/windows-virtual-scanner
+
 
 # 地址
 | 官网      | https://twain.org/ |
