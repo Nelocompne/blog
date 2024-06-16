@@ -1,5 +1,5 @@
 ---
-title: 《APP体验》局域网聊天KouChat
+title: 局域网聊天KouChat
 date: 2024-06-01 20:18:02
 tags:
 - 局域网
@@ -9,6 +9,8 @@ categories:
 ---
 
 # 介绍
+《APP体验》一：
+
 一款通过WIFI或局域网通信的聊天软件，支持安卓PC端。
 
 <!-- more -->
