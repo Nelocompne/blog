@@ -1,9 +1,10 @@
 ---
-title: {{ title }}
-date: {{ date }}
+title: trace.moe《What is this anime》
+date: 2024-10-21
 tags:
+- 动画
 categories:
-- 软件/Game/lib/网站/笔记/APP/
+- 网站
 ---
 
 # 介绍

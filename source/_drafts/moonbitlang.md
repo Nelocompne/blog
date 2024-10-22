@@ -1,9 +1,11 @@
 ---
-title: {{ title }}
+title: Moonbit 月兔语言
 date: {{ date }}
 tags:
+- 编程语言
+- Moonbitlang
+- Moonbit
 categories:
-- 软件/Game/lib/网站/笔记/APP/
 ---
 
 # 介绍
