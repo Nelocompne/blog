@@ -56,7 +56,7 @@ Microsoft - https://www.microsoft.com/openjdk
 
 除了材质包，模组加载器，mod下载，光源包，光影安装这几个东西就放到一起介绍。
 
-如果是几年前，模组加载器你基本上就只能选择Forge，要光源你只能选择optifine（高清修复）。但是现在是2024年兄弟，你有大把选择：Fabric、Quilt、NeoForge，光影甚至不用选择那个不开源且老套的optifine，[mc百科](https://www.mcmod.cn)里搜“元素周期表”~~（大草）~~，“元素周期表”是代称，代指那些能代替高清修复的工作且开源的模组。
+如果是几年前，模组加载器你基本上就只能选择Forge，要光影你只能选择optifine（高清修复）。但是现在是2024年兄弟，你有大把选择：Fabric、Quilt、NeoForge，光影甚至不用选择那个不开源且老套的optifine，[mc百科](https://www.mcmod.cn)里搜“元素周期表”~~（大草）~~，“元素周期表”是代称，代指那些能代替高清修复的工作且开源的模组。
 
 ## 光影方面
 
