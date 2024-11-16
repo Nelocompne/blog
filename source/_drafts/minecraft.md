@@ -4,15 +4,16 @@ date: 2024年10月28日 18:00:00
 tags:
 - 我的世界
 - java
+- minecraft
 categories:
 - Game
 ---
 
 # 介绍
-该文章只介绍JAVA版本，正版、离线（盗版）用户可用。
+该文章介绍了Minecraft游玩需要的JAVA版本以及其他更多的相关配置规则。
 <!-- more -->
 
-# 第一步，JAVA版本
+# JAVA版本
 
 最低Java版本要求
 先贴一个来自Minecraft Wiki的Minecraft对Java的运行标准：（https://zh.minecraft.wiki/w/Java%E7%89%88）
@@ -42,7 +43,7 @@ Microsoft - https://www.microsoft.com/openjdk
 
 - 其次就是[PCL2](https://ifdian.net/a/LTcat)，启动器本身终于摆脱了java，基于微软标准程序构建，但是不跨平台也不开源，以及多多少少也会拉屎，所以也不太推荐。
 
-- [BAkaXL](https://www.bakaxl.com/)，颜值还行，基于微软.NET(dotnet)平台编写，（笔者吐槽：作者前一两年还打算也跨平台来着，还打算用Rust写，但是作者对跨平台框架实在不了解，甚至对Linux桌面环境这件事也完全不熟悉， ~~有点像高校老师教C语言给你用谭浩强的教材~~ ，甚至觉得“跨平台是项不太合理达成的任务”，可是要我说，当时有不少用.NET跨平台框架做的好的例子比比皆是。）bakaxl一开始也开源的，后来作者放弃了，所以基于上述我也不太推荐。
+- [BAkaXL](https://www.bakaxl.com/)，颜值还行，基于微软.NET(dotnet)平台编写，（笔者吐槽：作者前一两年还打算也跨平台来着，还打算用Rust写，但是作者对跨平台框架实在不了解，甚至对Linux桌面环境这件事也完全不熟悉， ~~有点像高校老师教C语言给你用谭浩强的教材~~ ，甚至觉得“跨平台是项不太合理达成的任务”，可是要我说，当时有不少用.NET跨平台框架做的好例子比比皆是。）bakaxl一开始也开源的，后来作者放弃了，所以基于上述我也不太推荐。
 
 - 我个人推荐[Prism Launcher](https://prismlauncher.org/)，国内基本上没什么人介绍过，不会java拉屎，QT框架编写，开源跨平台，唯一的问题默认不支持盗版账户（离线账户），你要添加离线账户得先添加正版账户 ~~（什么？）~~ ，不过也能解决：https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass ，做法就是在Prism Launcher客户端目录下创建一个`accounts.json`文件，内容为：
 ```json
@@ -54,9 +55,9 @@ Microsoft - https://www.microsoft.com/openjdk
 
 # 模组加载器，MOD资源，光源材质包选择。
 
-除了材质包，模组加载器，mod下载，光源包，光影安装这几个东西就放到一起介绍。
+材质包，模组加载器，mod下载，光源包，光影安装这几个东西就放到一起介绍。
 
-如果是几年前，模组加载器你基本上就只能选择Forge，要光影你只能选择optifine（高清修复）。但是现在是2024年兄弟，你有大把选择：Fabric、Quilt、NeoForge，光影甚至不用选择那个不开源且老套的optifine，[mc百科](https://www.mcmod.cn)里搜“元素周期表”~~（大草）~~，“元素周期表”是代称，代指那些能代替高清修复的工作且开源的模组。
+如果是几年前，模组加载器你基本上就只能选择Forge，要光影你只能选择optifine（高清修复）。但是现在是2024年兄弟，你有大把选择：Fabric、Quilt、NeoForge，光影甚至不用选择那个不开源且老套的optifine，[mc百科](https://www.mcmod.cn)里搜“元素周期表”~~（大草）~~，“元素周期表”是代称，代指那些能代替高清修复的工作且开源的模组。以下有模组介绍。
 
 ## 光影方面
 
@@ -72,3 +73,21 @@ Microsoft - https://www.microsoft.com/openjdk
 |    | FerriteCore  | FerriteCore     | FerriteCore |   |   |   |   |   |
 |    |              |                 |             |   |   |   |   |   |
 
+根据不同版本自己选择组合。
+
+## 光影包和材质包
+
+国内MC-NEO光影站，全国首个全授权光影站： https://www.mcneo.cn/  
+MGC中文图形站： https://minegraph.cn/
+
+## 动态光源和矿物发光
+
+默认大多数的光影包设置和优化都会开启动态光源，只不过矿物发光确实需要自己根据光影包进行设置，或者补丁 *Euphoria Patcher* 。
+
+## 优化
+
+这种有很多模组，比如优化FPS，现代优化 *ModernFix* ，还有超远视距 *Distant Horizons* 。
+
+# 结束
+
+这一套下来基本上就可以完成一套携带模组光影材质包的客户端了。值得注意的是，虽然国内有大量的懒人包、整合包，但是玩家必须要清楚一点，*MOJANG* 不允许别人将他们的游戏本体进行二次分发（包括魔改和破解的游戏客户端和服务端）。所以你哪怕清楚很多人都这样做，但请你知道这样是不对的。
