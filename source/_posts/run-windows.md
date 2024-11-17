@@ -14,7 +14,7 @@ categories:
 
 ## 软件截图
 
-![](https://geekflare.com/cdn-cgi/image/width=1200,height=630,fit=crop,quality=90,format=auto,onerror=redirect,metadata=none/wp-content/uploads/2020/12/run-commands-in-windows-geekflare-1.jpg)
+{% img run mywindowsrunwithbk.png 100% 100% '"none" "none"' %}
 
 ## 解析
 
