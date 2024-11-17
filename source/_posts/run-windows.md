@@ -14,7 +14,7 @@ categories:
 
 ## 软件截图
 
-![](./mywindowsrunwithbk.png)
+![](mywindowsrunwithbk.png)
 
 ## 解析
 
