@@ -17,8 +17,8 @@ Rufus 是一款格式化和创建 USB 启动盘的辅助工具。
 
 ## 软件截图
 
-![](http://rufus.ie/pics/screenshot1_zh_CN.png)
-![](http://rufus.ie/pics/screenshot2_en.png)
+![](https://drive.ljzd.link/api/raw/?path=/Images/blog/screenshot1_zh_CN.png&odpt=f68a9f95c330098a55256b6d2d21ff1901798a4b6b132b3ab94d33c0ba017543&proxy=true)
+![](https://drive.ljzd.link/api/raw/?path=/Images/blog/screenshot2_en.png&odpt=f68a9f95c330098a55256b6d2d21ff1901798a4b6b132b3ab94d33c0ba017543&proxy=true)
 
 # 地址
 | 官网      | http://rufus.ie |

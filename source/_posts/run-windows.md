@@ -14,7 +14,7 @@ categories:
 
 ## 软件截图
 
-![](mywindowsrunwithbk.png)
+![](https://drive.ljzd.link/api/raw/?path=/Images/blog/mywindowsrunwithbk.png&odpt=f68a9f95c330098a55256b6d2d21ff1901798a4b6b132b3ab94d33c0ba017543&proxy=true)
 
 ## 解析
 

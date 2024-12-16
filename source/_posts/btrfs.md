@@ -16,7 +16,7 @@ Btrfs文件系统，与甲骨文早期开发的文件系统，Linux常见但是w
 
 ## 软件截图
 
-![logo](https://www.tecnoinver.cl/wp-content/uploads/2016/02/Btrfs_logo.png)
+![logo](https://drive.ljzd.link/api/raw/?path=/Images/blog/t0198eafb93bfc8bb83.png&odpt=f68a9f95c330098a55256b6d2d21ff1901798a4b6b132b3ab94d33c0ba017543&proxy=true)
 
 # 地址
 | 官网      | Description |
