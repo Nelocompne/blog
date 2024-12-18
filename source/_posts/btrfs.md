@@ -5,7 +5,7 @@ tags:
 - windows
 - btrfs
 categories:
-- 软件
+- software
 ---
 
 # 介绍

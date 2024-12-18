@@ -4,7 +4,7 @@ date: 2024-06-14 20:49:33
 tags:
 - git
 categories:
-- 网站
+- website
 ---
 
 # 配置Git

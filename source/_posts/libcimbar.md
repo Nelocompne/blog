@@ -4,7 +4,7 @@ date: 2024-09-23 23:11:00
 tags:
 - qrcode
 categories:
-- lib
+- software
 ---
 
 # 介绍

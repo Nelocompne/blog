@@ -5,7 +5,7 @@ tags:
 - windows
 - uninstall
 categories:
-- 软件
+- software
 ---
 
 # 介绍

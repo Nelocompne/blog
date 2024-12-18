@@ -4,7 +4,7 @@ date: 2024-11-15
 tags:
 - windows
 categories:
-- 笔记
+- note
 ---
 
 # 介绍

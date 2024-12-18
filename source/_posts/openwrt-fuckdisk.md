@@ -4,7 +4,7 @@ date: 2024-06-30 11:53:01
 tags:
 - openwrt
 categories:
-- 笔记
+- note
 ---
 
 # 介绍

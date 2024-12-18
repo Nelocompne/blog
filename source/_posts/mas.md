@@ -6,7 +6,7 @@ tags:
 - 脚本
 - powershell
 categories:
-- 软件
+- software
 ---
 
 # 介绍

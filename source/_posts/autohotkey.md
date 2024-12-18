@@ -3,7 +3,9 @@ title: autohotkey
 date: 2024-05-24 21:53:01
 tags:
 - autohotkey
+- windows
 categories:
+- software
 ---
 
 # 介绍

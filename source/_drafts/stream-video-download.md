@@ -5,7 +5,7 @@ tags:
 - 流媒体
 - 视频
 categories:
-- 软件
+- software
 ---
 
 # 《视频下载软件系列》

@@ -3,7 +3,7 @@ title: {{ title }}
 date: {{ date }}
 tags:
 categories:
-- 软件/Game/lib/网站/笔记/APP/
+- software/Game/lib/website/note/APP/system
 ---
 
 # 介绍

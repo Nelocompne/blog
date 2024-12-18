@@ -5,6 +5,7 @@ tags:
 - windows
 - 运维
 categories:
+- note
 ---
 
 # 介绍

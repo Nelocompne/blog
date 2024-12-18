@@ -5,7 +5,7 @@ tags:
 - win7
 - windows
 categories:
-- 系统
+- system
 ---
 
 # 介绍

@@ -6,7 +6,7 @@ tags:
 - iso
 - windows
 categories:
-- 软件
+- software
 ---
 
 # 介绍

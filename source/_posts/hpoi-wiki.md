@@ -6,7 +6,7 @@ tags:
 - 手办
 - wiki
 categories:
-- 网站
+- website
 ---
 
 # 介绍
