@@ -95,7 +95,6 @@ title: 信息资源检索
 - obs 控制应用音频插件 https://github.com/bozbez/win-capture-audio
 - 便携的局域网p2p远程桌面程序，无预编译 https://github.com/miroslavpejic85/p2p 
 - 颜色选表 https://github.com/jxnblk/colorable
-- ikemen-go mugen后继引擎 https://github.com/ikemen-engine/Ikemen-GO
 - markdown编辑器 https://github.com/writemonkey/wm3
 - 停止更新，新的工具比它更流行 https://github.com/MathewSachin/Captura
 	- https://github.com/NickeManarin/ScreenToGif
@@ -174,6 +173,7 @@ title: 信息资源检索
 - [[浏览器]]脚本，针对漫画站优化的阅读器 https://github.com/hymbz/ComicReadScript
 - [[浏览器]]脚本，H5视频增强 https://github.com/xxxily/h5player
 ### 模拟器
+- ps4 https://github.com/shadps4-emu/shadps4
 - PlayStation Vita https://github.com/Vita3K/Vita3K
 - ps2 https://github.com/PCSX2/pcsx2
 - ps3 https://github.com/RPCS3/rpcs3
@@ -195,3 +195,5 @@ title: 信息资源检索
 	- https://github.com/Philimao/ArkRecordWiki
 	- https://github.com/heyanLE/Closure
 - 老头环 https://github.com/uberhalit/EldenRingFpsUnlockAndMore
+- ikemen-go mugen后继引擎 https://github.com/ikemen-engine/Ikemen-GO
+- 音游，psych 引擎 https://github.com/ShadowMario/FNF-PsychEngine
