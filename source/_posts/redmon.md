@@ -30,11 +30,11 @@ categories:
 </video>
 安装后，添加本地打印机，创建新端口“Redirected Port”，端口名称（Port Name）默认，选择有镜像打印功能的打印机型号进行添加（例子使用了HP Color LaserJet 2800 Series PS）。
 
-## 虚拟打印机默认设置修
+## 虚拟打印机默认设置修改
 
 <video autoplay muted loop class="video">
     <source src="<video autoplay muted loop class="video">
-    <source src="https://drive.ljzd.link/api/raw/?path=/Images/blog/jkfl/redmon%E8%99%9A%E6%8B%9F%E6%89%93%E5%8D%B0%E6%9C%BA%E8%AE%BE%E7%BD%AE_1709214868699_0.mp4&odpt=f68a9f95c330098a55256b6d2d21ff1901798a4b6b132b3ab94d33c0ba017543&proxy=true" type="video/mp4">
+    <source src="https://drive.ljzd.link/api/raw/?path=/Images/blog/jkfl/%E8%99%9A%E6%8B%9F%E6%89%93%E5%8D%B0%E6%9C%BA%E9%BB%98%E8%AE%A4%E8%AE%BE%E7%BD%AE%E4%BF%AE%E6%94%B9_1709215141445_0.mp4&odpt=f68a9f95c330098a55256b6d2d21ff1901798a4b6b132b3ab94d33c0ba017543&proxy=true" type="video/mp4">
     很抱歉，您的浏览器不支持 HTML5 原生视频。
 </video>
 虚拟打印机默认设置，开启镜像打印功能。
