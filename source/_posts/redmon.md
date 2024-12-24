@@ -5,6 +5,7 @@ tags:
 - windows
 - redmon
 - printer
+- Ghostscript
 categories:
 - software
 ---
