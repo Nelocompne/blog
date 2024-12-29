@@ -118,6 +118,7 @@ title: 信息资源检索
 - 部署的云盘系统 https://github.com/cloudreve/Cloudreve
 - 网络分析工具 https://github.com/avwo/whistle
 - windows网络分析工具 https://github.com/jagt/clumsy
+- 现代下载工具 https://github.com/GopeedLab/gopeed
 ### 针对
 - https://github.com/SocialSisterYi/bilibili-API-collect
 - Pixiv的某个下载器，使用说明太长没法看 https://github.com/Nandaka/PixivUtil2
