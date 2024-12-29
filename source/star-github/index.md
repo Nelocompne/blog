@@ -198,3 +198,7 @@ title: 信息资源检索
 - 老头环 https://github.com/uberhalit/EldenRingFpsUnlockAndMore
 - ikemen-go mugen后继引擎 https://github.com/ikemen-engine/Ikemen-GO
 - 音游，psych 引擎 https://github.com/ShadowMario/FNF-PsychEngine
+### qq机器人
+- Yunzai-Bot的升级插件 https://github.com/yoimiya-kokomi/miao-plugin
+	- 插件索引 https://github.com/yhArcadia/Yunzai-Bot-plugins-index
+- 喵版Yunzai-V3 https://github.com/yoimiya-kokomi/Miao-Yunzai
