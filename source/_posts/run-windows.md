@@ -40,6 +40,7 @@ CLSID简单的来说，这类系统程序不像`notepad.exe` `cmd.exe`等等，�
 | lusrmgr.msc | 用户管理器（mmc 子程序） |
 | ncpa.cpl | 网络连接（控制面板 子程序） |
 | sysdm.cpl | 系统属性（PATH环境配置在这里） |
+| gpedit.msc | 策略组 |
 
 # 地址
 

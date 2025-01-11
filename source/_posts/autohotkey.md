@@ -1,5 +1,5 @@
 ---
-title: autohotkey
+title: Autohotkey
 date: 2024-05-24 21:53:01
 tags:
 - autohotkey
