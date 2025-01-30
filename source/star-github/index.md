@@ -60,6 +60,8 @@ title: 信息资源检索
 - wifi卡 https://github.com/bndw/wifi-card
 - 我的世界像素画 https://github.com/SlopeCraft/SlopeCraft
 - Minecraft启动器 https://github.com/PrismLauncher/PrismLauncher
+	- https://multimc.org/
+	- https://polymc.org/
 - [[前端]]的服务器索引 https://github.com/lrsjng/h5ai
 - 一个花里胡哨的[[前端]]玩意，大家都见过 https://github.com/hustcc/canvas-nest.js
 - [[前端]]媒体播放器，要知道，很多在线媒体资源站都是用这些开源的播放器
