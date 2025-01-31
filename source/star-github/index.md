@@ -135,6 +135,9 @@ title: 信息资源检索
 - 一个直播录制工具 https://github.com/hr3lxphr6j/bililive-go
 - 一款命令行式哔哩哔哩下载器 https://github.com/nilaoda/BBDown
 - 跨平台客户端 https://github.com/xfangfang/wiliwili
+- 扎实能用，但是还是不那么优雅 https://github.com/molihuan/BilibiliCacheVideoMergePython
+	- 更为优雅的方式 https://github.com/mzky/m4s-converter
+	- 安卓端也不能落下 https://github.com/10miaomiao/bili-down-out
 ### galgame
 - galgame内部注入翻译器 https://github.com/project-yuki/YUKI 
 - galgame内部注入翻译器 https://github.com/hanmin0822/MisakaTranslator 
