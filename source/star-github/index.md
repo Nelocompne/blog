@@ -207,3 +207,8 @@ title: 信息资源检索
 - Yunzai-Bot的升级插件 https://github.com/yoimiya-kokomi/miao-plugin
 	- 插件索引 https://github.com/yhArcadia/Yunzai-Bot-plugins-index
 - 喵版Yunzai-V3 https://github.com/yoimiya-kokomi/Miao-Yunzai
+
+### 笔记本电脑 laptop
+- 华硕笔记本电脑专用，把你的奥创和华硕管家卸载掉吧！ https://github.com/seerge/g-helper
+	- 此处获取华硕奥创官方卸载工具 https://www.asus.com/supportonly/armoury%20crate/helpdesk_download/
+	- 或参考搜索 *Armoury_Crate_Uninstall_Tool.zip*
