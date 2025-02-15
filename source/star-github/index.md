@@ -178,15 +178,20 @@ title: 信息资源检索
 - [[浏览器]]扩展，代理管理器 https://github.com/FelisCatus/SwitchyOmega
 - [[浏览器]]脚本，针对漫画站优化的阅读器 https://github.com/hymbz/ComicReadScript
 - [[浏览器]]脚本，H5视频增强 https://github.com/xxxily/h5player
+
 ### 模拟器
 - ps4 https://github.com/shadps4-emu/shadps4
 - PlayStation Vita https://github.com/Vita3K/Vita3K
 - ps2 https://github.com/PCSX2/pcsx2
 - ps3 https://github.com/RPCS3/rpcs3
 - NS https://github.com/Ryujinx/Ryujinx
-	- https://github.com/skyline-emu/skyline
-	- https://github.com/yuzu-emu/yuzu
+	- https://github.com/n3rddd/GreemDev-Ryujinx Ryujinx GreemDev版
+	- https://github.com/ryujinx-mirror/ryujinx Ryujinx原生版
+	- 天际线 https://github.com/skyline-emu/skyline
+	- 去用suyu吧 https://github.com/yuzu-emu/yuzu
 - 手柄模拟 https://github.com/Davidobot/BetterJoy
+
+
 ### 代理
 - 前端面板 https://github.com/haishanh/yacd
 	- https://github.com/MetaCubeX/metacubexd
