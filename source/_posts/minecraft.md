@@ -54,7 +54,7 @@ Microsoft - https://www.microsoft.com/openjdk
 ```json
 {"accounts": [{"entitlement": {"canPlayMinecraft": true,"ownsMinecraft": true},"type": "MSA"}],"formatVersion": 3}
 ```
-这样就绕过了要先添加正版账户的步骤。
+这样就绕过了要先添加正版账户的步骤。不过该方法可能需要电脑安装Xbox应用（微软应用商店可下）才可实现。
 
 - 还有个启动器： https://github.com/antunnitraj/OfflineMinecraftLauncher ，一种离线账户直接MC启动器，问题就是——完全的拉屎，从java到mc游戏资源直接拉屎到你电脑上， ~~纯粹的懒狗或者不是你自己的电脑可以这么干~~ 。
 
