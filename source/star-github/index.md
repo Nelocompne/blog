@@ -6,14 +6,17 @@ title: 信息资源检索
 来自我 [[Github]] Star 的项目，由个人挑选列出。此处列出特殊项目，其余项目发在资源表。 
 - https://gchq.github.io/CyberChef/ 在线瑞士军刀
 - https://www.yutu.cn/ 设计师资源网站
+
 ### 微软环境库
 - https://learn.microsoft.com/zh-cn/cpp/windows/latest-supported-vc-redist?view=msvc-170
 - https://dotnet.microsoft.com/en-us/download/dotnet-framework
 - https://dotnet.microsoft.com/zh-cn/download/dotnet
+
 ### openjdk
 - [Home | Adoptium](https://adoptium.net/zh-CN/)
 - [BellSoft. Secure Liberica JDK and modern solutions for Java apps | BellSoft Java (bell-sw.com)](https://bell-sw.com/)
 - [Microsoft Build of OpenJDK](https://www.microsoft.com/openjdk)
+
 ### 手机软件
 - 知乎上一个有点名头的人 _Suji Yan_ https://www.zhihu.com/people/suji-yan ，他自己开了家公司Mask Network  
 	- 非对称加密的聊天工具 https://github.com/DimensionDev/TesserPG-Android
@@ -35,6 +38,7 @@ title: 信息资源检索
 - 虚拟定位软件发布页 https://github.com/Lerist/FakeLocation
 - 多平台流媒体播放器 https://github.com/InfinityLoop1308/PipePipe
 - 安卓端的文本编辑器 https://github.com/massivemadness/Squircle-CE
+
 ### 技术栈
 - tachiyomi 的独特风味版分支项目
 	- [Suwayomi (github.com)](https://github.com/Suwayomi)
@@ -80,6 +84,7 @@ title: 信息资源检索
 - 用于百度网盘的标准提取码生成器 https://github.com/jixunmoe/mfcDuDownloadCodeGenerator
 - 图形界面框架 https://github.com/ocornut/imgui
 - 马赛克提取字符 https://github.com/spipm/Depix
+
 ### 程序
 - 巨硬工作器！ https://massgrave.dev/
 - 魂器！ https://github.com/jesseduffield/horcrux
@@ -121,6 +126,7 @@ title: 信息资源检索
 - 网络分析工具 https://github.com/avwo/whistle
 - windows网络分析工具 https://github.com/jagt/clumsy
 - 现代下载工具 https://github.com/GopeedLab/gopeed
+
 ### 针对
 - https://github.com/SocialSisterYi/bilibili-API-collect
 - Pixiv的某个下载器，使用说明太长没法看 https://github.com/Nandaka/PixivUtil2
@@ -138,14 +144,17 @@ title: 信息资源检索
 - 扎实能用，但是还是不那么优雅 https://github.com/molihuan/BilibiliCacheVideoMergePython
 	- 更为优雅的方式 https://github.com/mzky/m4s-converter
 	- 安卓端也不能落下 https://github.com/10miaomiao/bili-down-out
+
 ### galgame
-- galgame内部注入翻译器 https://github.com/project-yuki/YUKI 
-- galgame内部注入翻译器 https://github.com/hanmin0822/MisakaTranslator 
+- 新的支持大模型的galgame翻译器 https://github.com/HIllya51/LunaTranslator
+- galgame外部Hook翻译器 https://github.com/project-yuki/YUKI 
+- galgame外部hook翻译器 https://github.com/hanmin0822/MisakaTranslator 
 - 玩galgame的人知道，那些日本游戏的电脑只有在日区PC显示字体才会正常，然后就有人做了个模拟工具 https://github.com/xupefei/Locale-Emulator
 - 基于前端的GAL游戏引擎 https://github.com/OpenWebGAL/WebGAL
 - 某个游戏引擎的复刻 https://github.com/Strrationalism/CPyMO
 - 引擎仿真 https://github.com/YuriSizuku/OnscripterYuri
 - 游戏时间记录器 https://github.com/Aixile/Etupirka
+
 ### 数据库
 - 中文人名语料库 https://github.com/wainshine/Chinese-Names-Corpus 
 - 日本人名语料库 https://github.com/willnet/gimei 
@@ -153,6 +162,7 @@ title: 信息资源检索
 - 年度成人列表，记得是在[[福利吧]]里推荐的 https://github.com/no-Dark/Adult
 - nsfw数据库示例 https://github.com/alex000kim/nsfw_data_scraper 
 - 地图api https://github.com/tyrasd/overpass-turbo
+
 ### 字体
 - 思源宋体，Adobe和Github合作最强大的CJK（Chinese Japanese Korean）开源字体 https://github.com/adobe-fonts/source-han-serif
 - 《紫罗兰永恒花园》同人字体
@@ -160,6 +170,7 @@ title: 信息资源检索
 	- https://github.com/kagurazakayashi/EvergardenConverter
 - 等距更纱黑体 https://github.com/be5invis/Sarasa-Gothic
 - 霞鹜新晰黑 https://github.com/lxgw/LxgwNeoXiHei
+
 ### 书
 - 《保护你的Linux服务器》 https://github.com/imthenachoman/How-To-Secure-A-Linux-Server
 - 开源图书《Go语言高级编程》 https://github.com/chai2010/advanced-go-programming-book
@@ -172,6 +183,7 @@ title: 信息资源检索
 - COBOL入门 https://github.com/openmainframeproject/cobol-programming-course
 - 《让你的javascript代码更规范》 https://github.com/ryanmcdermott/clean-code-javascript
 - https://github.com/sudoskys/StableDiffusionBook
+
 ### 浏览器脚本
 - [[浏览器]]脚本，b站增强 https://github.com/the1812/Bilibili-Evolved
 - [[浏览器]]用户脚本，E站下载器 https://github.com/ccloli/E-Hentai-Downloader
@@ -191,7 +203,6 @@ title: 信息资源检索
 	- 去用suyu吧 https://github.com/yuzu-emu/yuzu
 - 手柄模拟 https://github.com/Davidobot/BetterJoy
 
-
 ### 代理
 - 前端面板 https://github.com/haishanh/yacd
 	- https://github.com/MetaCubeX/metacubexd
@@ -200,6 +211,7 @@ title: 信息资源检索
 	- https://github.com/tailscale/tailscale
 	- https://github.com/wg-easy/wg-easy
 	- https://github.com/vx3r/wg-gen-web
+
 ### 游戏
 - 赛马娘 https://github.com/wrrwrr111/pretty-derby
 - 明日方舟 https://github.com/arkntools/arknights-toolbox
@@ -208,6 +220,7 @@ title: 信息资源检索
 - 老头环 https://github.com/uberhalit/EldenRingFpsUnlockAndMore
 - ikemen-go mugen后继引擎 https://github.com/ikemen-engine/Ikemen-GO
 - 音游，psych 引擎 https://github.com/ShadowMario/FNF-PsychEngine
+
 ### qq机器人
 - Yunzai-Bot的升级插件 https://github.com/yoimiya-kokomi/miao-plugin
 	- 插件索引 https://github.com/yhArcadia/Yunzai-Bot-plugins-index
