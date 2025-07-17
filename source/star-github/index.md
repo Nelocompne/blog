@@ -86,6 +86,7 @@ title: 信息资源检索
 - 马赛克提取字符 https://github.com/spipm/Depix
 
 ### 程序
+- obs插件，独立web插件，音乐播放器信息播放插件 https://gitee.com/widdit/now-playing
 - 巨硬工作器！ https://massgrave.dev/
 - 魂器！ https://github.com/jesseduffield/horcrux
 - 命令行QR https://github.com/Lenivaya/qrrs
