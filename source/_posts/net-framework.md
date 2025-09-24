@@ -1,5 +1,5 @@
 ---
-title: .NET Framework
+title: .NET Framework微软.NET框架运行时
 date: 2024-07-03 11:25:00
 tags:
 - .net

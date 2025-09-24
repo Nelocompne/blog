@@ -1,5 +1,5 @@
 ---
-title: Rustdesk
+title: Rustdesk开源远程工具
 date: 2025-01-13
 tags:
 - windows
@@ -10,7 +10,7 @@ categories:
 
 # 介绍
 
-Rustdesk 快速使用参考。
+Rustdesk为优秀的开源远程工具，可自搭建链接服务器，支持离网局域网。
 <!-- more -->
 
 该脚本快速重置rustdesk客户端。

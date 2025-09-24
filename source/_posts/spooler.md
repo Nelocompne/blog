@@ -1,5 +1,5 @@
 ---
-title: Windows 打印机服务
+title: Windows打印机服务Spooler
 date: 2024-11-05
 tags:
 - windows

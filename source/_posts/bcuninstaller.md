@@ -1,5 +1,5 @@
 ---
-title: Bulk Crap Uninstaller
+title: 批量智能软件卸载工具Bulk Crap Uninstaller
 date: 2024-06-14 20:40:01
 tags:
 - windows

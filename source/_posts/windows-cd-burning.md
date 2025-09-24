@@ -1,5 +1,5 @@
 ---
-title: Windows免费CD-DVD刻录软件
+title: Windows免费光盘刻录软件
 date: 2024-05-24 13:15:29
 tags:
 - CD

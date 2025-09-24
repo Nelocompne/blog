@@ -1,5 +1,5 @@
 ---
-title: redmon实践
+title: 打印机端口重定向redmon实践
 date: 2024-02-29
 tags:
 - windows

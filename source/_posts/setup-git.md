@@ -1,5 +1,5 @@
 ---
-title: 配置Git
+title: 快速进行Git基础配置
 date: 2024-06-14 20:49:33
 tags:
 - git

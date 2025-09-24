@@ -1,5 +1,5 @@
 ---
-title: MAS
+title: MAS微软激活脚本
 date: 2024-01-01 11:59
 tags:
 - windows

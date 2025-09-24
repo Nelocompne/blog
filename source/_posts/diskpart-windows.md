@@ -1,5 +1,5 @@
 ---
-title: Windows自带工具 diskpart 介绍
+title: Windows自带命令行分区工具diskpart介绍
 date: 2025-01-26
 tags:
 - windows

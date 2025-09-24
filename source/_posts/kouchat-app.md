@@ -1,5 +1,5 @@
 ---
-title: 局域网聊天KouChat
+title: 局域网聊天软件KouChat
 date: 2024-06-01 20:18:02
 tags:
 - 局域网

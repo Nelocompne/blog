@@ -1,5 +1,5 @@
 ---
-title: Autohotkey
+title: Windows自动热键脚本语言Autohotkey
 date: 2024-05-24 21:53:01
 tags:
 - autohotkey

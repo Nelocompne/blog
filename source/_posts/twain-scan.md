@@ -1,5 +1,5 @@
 ---
-title: TWAIN 协议相关
+title: 扫描仪TWAIN协议相关
 date: 2024-06-01 20:05:49
 tags:
 - twain
