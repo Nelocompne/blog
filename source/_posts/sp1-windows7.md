@@ -22,6 +22,8 @@ Windows7目前微软已经停止了有关它的一切更新，接下来会介绍
 2. 微软官网下载补丁： [KB4474419](https://www.catalog.update.microsoft.com/Search.aspx?q=KB4474419)、
 [KB4490628](https://www.catalog.update.microsoft.com/Search.aspx?q=KB4490628)
 
+火绒备注： [1](https://huorong.cn/service/support/fqa/personal-edition-faq/installation-and-uninstallation-problems/file), [2](https://huorong.cn/service/support/fqa/common-problem-1/rests/special-problem)
+
 ## UpdatePack7R2
 
 作者： https://blog.simplix.info/updatepack7r2/
